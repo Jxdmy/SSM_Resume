@@ -106,7 +106,7 @@
 			</h3>
 			<div class="strip text-center">
 				<img src="${ctx }/images/about.png" alt=" "
-					class="edit-btn edit-aboutMe" data-url="${ctx }/aboutMe/form" />
+					class="edit-aboutMe" data-url="${ctx }/aboutMe/form" />
 			</div>
 			<div class="container row">
 				<div class="about-grids">
